@@ -8,9 +8,9 @@ import nest_asyncio
 nest_asyncio.apply()
 
 
-bildirim_orani = 0.001
-bot_token = "2118821116:AAH7_B16KqyPZRceua3roBDXEj1L1X840i0"
-chat_idler = ["1160536937"]
+bildirim_orani = 0.001 #istediğiniz bildirim oranı
+bot_token = "Telegram_bot_tokeniniz"
+chat_idler = ["Id niz(telegram)"]
 now_price = None
 coin = "LRCUSDT"
 
